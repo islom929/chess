@@ -426,49 +426,49 @@ const chessFigures = [
 
 const figureMove = [
   {
-    id: 0,
+    id: 1,
     nameMove: 'up',
     xMove: 0,
     yMove: 0
   },
   {
-    id: 0,
+    id: 2,
     nameMove: 'down',
     xMove: 0,
     yMove: 0
   },
   {
-    id: 0,
+    id: 3,
     nameMove: 'left',
     xMove: 0,
     yMove: 0
   },
   {
-    id: 0,
+    id: 4,
     nameMove: 'right',
     xMove: 0,
     yMove: 0
   },
   {
-    id: 0,
+    id: 5,
     nameMove: 'leftUp',
     xMove: 0,
     yMove: 0
   },
   {
-    id: 0,
+    id: 6,
     nameMove: 'leftDown',
     xMove: 0,
     yMove: 0
   },
   {
-    id: 0,
+    id: 7,
     nameMove: 'rightUp',
     xMove: 0,
     yMove: 0
   },
   {
-    id: 0,
+    id: 8,
     nameMove: 'rightDown',
     xMove: 0,
     yMove: 0
